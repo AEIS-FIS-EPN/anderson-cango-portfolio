@@ -1,7 +1,7 @@
 # Anderson Cango - Personal Portfolio
 
 This website contains my personal portfolio created with React and Vite, this project will have sections such as:
-Home, Profile, Projets and About me.
+Home, Profile, Projects and About me.
 
 ## Technologies
 
@@ -41,14 +41,6 @@ pnpm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
-
-## Linting
-
-This project uses ESLint with the next/core-web-vitals configuration for code linting. This helps ensure code quality and adherence to best practices. You can run the linter using the following command:
-
-```bash
-pnpm run lint
-```
 
 ## License
 
